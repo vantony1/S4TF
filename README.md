@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Summary of work done during GSoC 2019
 
-You can use the [editor on GitHub](https://github.com/vantony1/S4TF/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Final Repository Link
+``` https://github.com/param087/swiftML ```
 
-### Markdown
+### Final Report
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+During the summer 2019 Google Summer of Code, I worked with another GSoC participant P.Bhavasar to implement standard machine learning algorithms in swift for S4TF. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I implemented the following algorithms:
 ```
+- Decision Tree
+- AdaBoost Classifier
+- Gradient Boost Regressor
+- Random Forest 
+- XGBoost (wrapper for the XGBoost library in Python)
+- Support Vector Machine (wrapper for libSVM library in C)
+```
+This is the link to my personal repo where I host all the work I have done: https://github.com/vantony1/S4TF
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vantony1/S4TF/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
