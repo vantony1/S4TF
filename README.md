@@ -31,7 +31,7 @@ Lastly, I wrapped XGBoost library in swift to be used in S4TF.
 
 I was documenting the code as I went along, however, I still had to go through and make sure the documentation was perfect in the end. I also made sure to follow the Google Swift Style guide.
 
-I also made example end-to-end notebook for each of my algorithm implementations
+I also made example end-to-end notebook for each of my algorithm implementations. They show you exactly how to use the library.
 
 #### Work still to be done
 1. the XGBoost library is very extensive; Currently, the wrapper is very basic and only support a small part of the wide functionality offered by the python library. I hope to continue working on expanding this functionality.
